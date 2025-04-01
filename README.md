@@ -1,7 +1,5 @@
 # VigenereAutokey
-This is the Autokey variant of the Vigenere cipher, which is much more secure and more resistant to decryption without the keyword.
-
-Below is a more concise README file for your script:
+This is the Autokey variant of the Vigenere cipher, which is much more secure and resistant to decryption without the keyword.
 
 ---
 
