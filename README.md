@@ -48,3 +48,13 @@ This Python script provides a simple command-line tool for encrypting and decryp
    - The script clears the screen and displays a menu.
    - Choose **1** to encrypt or **2** to decrypt.
    - Follow the prompts to input text and a keyword.
+  
+   - ## License
+
+Distributed under the Apache 2.0 License. 
+
+**Author**
+Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
